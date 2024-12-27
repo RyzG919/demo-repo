@@ -4,4 +4,4 @@ Some description describing project !
 
 ## subheader
 
-Watcing tutorial on YouTube.
+Watching tutorial on YouTube.
